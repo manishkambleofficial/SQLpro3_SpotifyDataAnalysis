@@ -105,7 +105,7 @@ SELECT
 	DISTINCT ALBUM, ARTIST
 FROM SPOTIFY
 ORDER BY 1;
-``
+```
 3. Get the total number of comments for tracks where `licensed = TRUE`.
 ```sql
 SELECT
